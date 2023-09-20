@@ -1,4 +1,4 @@
-# HelloWorld (Gradle)
+# Calculator (Gradle)
 
 ## Generate Gradle Wrapper
 
